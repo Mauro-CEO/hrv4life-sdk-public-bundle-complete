@@ -23,8 +23,5 @@ dev_dependencies:
 flutter:
   plugin:
     platforms:
-      android:
-        package: br.com.hrv4life.hrv4life_sdk
-        pluginClass: Hrv4lifeSdkPlugin
       ios:
         pluginClass: Hrv4lifeSdkPlugin
