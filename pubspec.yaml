@@ -23,5 +23,3 @@ dev_dependencies:
 flutter:
   plugin:
     platforms:
-      ios:
-        pluginClass: Hrv4lifeSdkPlugin
